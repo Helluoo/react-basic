@@ -1,4 +1,5 @@
 ### 리엑트앱 실습 사용소스
+- 마크다운 언어로 만든 README.md 설명파일요
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
